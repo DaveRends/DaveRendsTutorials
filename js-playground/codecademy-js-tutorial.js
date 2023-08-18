@@ -7,4 +7,4 @@ console.log("Javascript tutorial");
     are done 
     like this
 */
-console.log('First were sections on data types, operators and concatenatin - fine with this');
+console.log('First were sections on data types (int, string, bool etc.), operators and concatenatin - fine with this');
