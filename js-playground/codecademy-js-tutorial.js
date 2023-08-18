@@ -1,6 +1,6 @@
 // Writing to the console
 console.log("Javascript tutorial");
-
+console.log("Run this tutorial while reading the code for brief explanations of all things Java!");
 // Comments, and...
 /* 
     Multiline comments
